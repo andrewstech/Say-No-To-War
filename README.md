@@ -1,1 +1,2 @@
-# Say-No-To-War 🇺🇦
+# Say-No-To-War
+A sample website made for a competition
